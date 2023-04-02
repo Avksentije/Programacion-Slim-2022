@@ -19,14 +19,14 @@ class Interfaz:
         self.e5.grid(column=1, row=1)
         self.e6.grid(column=1, row=2)
 
-mensaje1 = "Hola", "\nSoy una ventana", "\nY puedo observarte o.o"
+mensaje1 = "Hola", "\nSoy una ventana"
 mensaje2 = "Caleidoscopios de cascabel"
-mensaje3 = "Cric-trec-crac"
-mensaje4 = "Hola", "\nSoy una ventana", "\nY puedo observarte o.o"
+mensaje3 = "abiotic"
+mensaje4 = "Hola"
 mensaje5 = "Caleidoscopios de cascabel"
-mensaje6 = "Cric-trec-crac"
+mensaje6 = "biotic"
 
-title = "Creepy thoughts"
+title = "thoughts"
 
 ventana = Tk()
 miInterfaz = Interfaz (ventana)
