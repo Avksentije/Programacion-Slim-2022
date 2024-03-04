@@ -34,7 +34,7 @@ mensaje4 = "Convertir ahora"
 mensaje5 = "Caleidoscopios de cascabel"
 #mensaje6 = "Cric-trec-crac"
 
-title = "Creepy thoughts"
+title = "Misterious thoughts"
 
 ventana = Tk()
 miInterfaz = Interfaz (ventana)
