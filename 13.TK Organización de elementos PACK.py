@@ -22,7 +22,7 @@ class Interfaz:
 mensaje1 = "Hola", "\nSoy una ventana", "\nY puedes observar a través de mi"
 mensaje2 = "Caleidoscopios de cascabel"
 mensaje3 = "Cric-trec-crac"
-title = "Creepy thoughts"
+title = "Soul-ty thoughts"
 
 ventana = Tk()
 miInterfaz = Interfaz (ventana)
