@@ -19,7 +19,7 @@ class Interfaz:
         self.e2.pack(side = RIGHT)
         self.e3.pack(side = BOTTOM, fill = BOTH)
 
-mensaje1 = "Hola", "\nSoy una ventana", "\nY puedo observarte o.o"
+mensaje1 = "Hola", "\nSoy una ventana", "\nY puedes observar a través de mi"
 mensaje2 = "Caleidoscopios de cascabel"
 mensaje3 = "Cric-trec-crac"
 title = "Creepy thoughts"
