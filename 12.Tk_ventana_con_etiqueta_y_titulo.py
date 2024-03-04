@@ -10,8 +10,8 @@ class Interfaz:
         self.e1 = Label(contenedor, text = mensaje, fg ='#00FFFF', bg ="black" )
         self.e1.pack()
 
-mensaje = "Hola", "\nSoy una ventana", "\nY puedo observarte o.o"
-title = "Creepy thoughts"
+mensaje = "Hola", "\nSoy una ventana"
+title = "thoughts"
 
 ventana = Tk()
 miInterfaz = Interfaz (ventana)
